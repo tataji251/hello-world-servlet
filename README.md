@@ -19,3 +19,4 @@ sample
 28/02/2022
 29/02/2022 --> it is Monday 8.55am
 12.04.2022
+it is monday
